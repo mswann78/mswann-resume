@@ -1,6 +1,6 @@
 # Melissa Swann
 **melissaswann40@gmail.com**
-** 425 281 5789**
+**425 281 5789**
 
 What I will bring to your company:
 I am an experienced technical writer/editor with tenure leading teams responsible for creating product user documentation. My background managing small and large groups provides me the skills to run long-term projects, manage deliverables, supervise and develop employees, and work seamlessly with a variety of individuals.
