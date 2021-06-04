@@ -1,16 +1,16 @@
-Melissa Swann
-melissaswann40@gmail.com | Firestone, CO | 425 281 5789
+##Melissa Swann##
+##melissaswann40@gmail.com | Firestone, CO | 425 281 5789##
 
 What I will bring to your company:
 I am an experienced technical writer/editor with tenure leading teams responsible for creating product user documentation. My background managing small and large groups provides me the skills to run long-term projects, manage deliverables, supervise and develop employees, and work seamlessly with a variety of individuals.
 
 Relevant skills and capabilities:
-Hiring, training, and supervising a team
-Managing and leading enterprise-wide initiatives
-Completing projects on time and within budget
-Juggling competing priorities
-Writing and editing software, technical, and medical documentation
-Managing a publication 
+-Hiring, training, and supervising a team
+-Managing and leading enterprise-wide initiatives
+-Completing projects on time and within budget
+-Juggling competing priorities
+-Writing and editing software, technical, and medical documentation
+-Managing a publication 
 
 Mac OS, Windows, MS Office/SharePoint, Oxygen XML editor, CMS, Adobe Structured FrameMaker, Jira, Agile PLM, UNIX
 
@@ -36,4 +36,5 @@ Managing Editor, INsite Magazine, Gainesville, FL. 2002. Managed a 30,000-circul
 Education:
 Technical Writing Certificate (110 hours of coursework)		Bellevue College
 Bachelor of Science in Journalism with High Honors		University of Florida
+
 
