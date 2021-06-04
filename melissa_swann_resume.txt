@@ -10,9 +10,7 @@ Managing and leading enterprise-wide initiatives
 Completing projects on time and within budget
 Juggling competing priorities
 Writing and editing software, technical, and medical documentation
-Managing a publication
-Creating press releases 
-
+Managing a publication 
 
 Mac OS, Windows, MS Office/SharePoint, Oxygen XML editor, CMS, Adobe Structured FrameMaker, Jira, Agile PLM, UNIX
 
