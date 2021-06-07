@@ -38,6 +38,6 @@ Managing Editor, INsite Magazine, Gainesville, FL. 2002. Managed a 30,000-circul
 
 ## Education:
 The Unix Workbench certificate, John Hopkins University (via Coursera)\
-Technical Writing Certificate (110 hours of coursework),Bellevue College\
-Bachelor of Science in Journalism with High Honors,University of Florida\
+Technical Writing certificate (110 hours of coursework), Bellevue College\
+Bachelor of Science in Journalism with High Honors, University of Florida
 
