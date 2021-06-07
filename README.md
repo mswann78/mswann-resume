@@ -37,7 +37,7 @@ Technical Writer/Editor, Sport Moves, Seattle, WA. 2003-2004. Personally led the
 Managing Editor, INsite Magazine, Gainesville, FL. 2002. Managed a 30,000-circulation publication by overseeing an editorial staff of 15, hiring and training new employees, assigning and writing stories, enforcing deadlines, editing and formatting stories into Adobe InDesign, locating and ordering cover art, and editing flats. 
 
 ## Education:
-The Unix Workbench certificate, John Hopkins University (via Coursera)
-Technical Writing Certificate (110 hours of coursework),Bellevue College
-Bachelor of Science in Journalism with High Honors,University of Florida
+The Unix Workbench certificate, John Hopkins University (via Coursera)\
+Technical Writing Certificate (110 hours of coursework),Bellevue College\
+Bachelor of Science in Journalism with High Honors,University of Florida\
 
