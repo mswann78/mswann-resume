@@ -40,6 +40,7 @@ Managing Editor, INsite Magazine, Gainesville, FL. 2002. Managed a 30,000-circul
 
 ## Education:
 The Unix Workbench certificate, John Hopkins University (via Coursera)\
+The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert (via Udemy)\
 Technical Writing certificate (110 hours of coursework), Bellevue College\
 Bachelor of Science in Journalism with High Honors, University of Florida
 
