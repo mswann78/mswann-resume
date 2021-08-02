@@ -18,7 +18,7 @@ Mac OS, Windows, MS Office/SharePoint, Oxygen XML editor, CMS, Adobe Structured 
 ## Experience:
 Principal Technical Writer, Medtronic (formerly Covidien), Boulder, CO. April 2014-present. Led, mentored, and trained the team of writers for the Respiratory business, managing the day-to-day work as well as long-term corporate initiatives. Drove efforts to improve quality and efficiency by leading the adoption of a new authoring, publishing, and translation system. As part of that adoption, worked with users and stakeholders to determine system requirements, performed user testing, reported out status to leadership, trained both internal users and external stakeholders, and served as the point person for the project. 
 
-Led the intiative to onboard our business unit to an electronic manuals platform. Worked directly with IT business analysts to develop the system requirements, performed user acceptance training, trained internal users, wrote the standard operating procedure, and educated external stakeholders. 
+Led the initiative to onboard our business unit to an electronic manuals platform. Worked directly with IT business analysts to develop the system requirements, performed user acceptance training, trained internal users, wrote the standard operating procedure, and educated external stakeholders. 
 
 Improved our team's best practices, standard operating procedures, and related processes. Managed the corporate Technical Communications style guide team, which contributed to improved consistency and quality of our product user documentation.  
 
