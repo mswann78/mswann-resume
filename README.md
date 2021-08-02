@@ -2,7 +2,7 @@
 melissaswann40@gmail.com | **425 281 5789**
 
 What I will bring to your company:
-I am an experienced technical writer/editor with tenure leading teams responsible for creating product user documentation. My background managing small and large groups provides me the skills to run long-term, enterprise-wide projects, manage deliverables, supervise and develop employees, and work seamlessly with a variety of individuals.
+I am an experienced technical writer/editor with tenure leading teams responsible for creating product user documentation. My background with long-term, enterprise-wide projects provides me with the skills necessary to guide and motivate teams, manage multiple high-priority deliverables, coach, train, and support users, and work seamlessly with a variety of individuals.
 
 ## Relevant skills and capabilities:
 - Managing and leading enterprise-wide initiatives
@@ -16,11 +16,11 @@ I am an experienced technical writer/editor with tenure leading teams responsibl
 Mac OS, Windows, MS Office/SharePoint, Oxygen XML editor, CMS, Adobe Structured FrameMaker, Jira, Agile PLM, UNIX, SQL
 
 ## Experience:
-Principal Technical Writer, Medtronic (formerly Covidien), Boulder, CO. April 2014-present. Led, mentored, and trained the team of writers for the Respiratory business, managing the day-to-day work as well as long-term corporate initiatives. Drove efforts to improve quality and efficiency by leading the adoption of a new authoring, publishing, and translation system. As part of that adoption, worked with users and stakeholders to determine system requirements, performed user testing, reported out status to leadership, trained both internal users and external stakeholders, and served as the point person for the project. 
+Principal Technical Writer, Medtronic (formerly Covidien), Boulder, CO. April 2014-present. Led, mentored, and trained the team of writers for the Respiratory business, managing the day-to-day work as well as long-term corporate initiatives. Drove efforts to improve quality and efficiency by leading the adoption of a new authoring, publishing, and translation system. As part of that adoption, worked with users and stakeholders to determine system requirements, performed user testing, reported out status to leadership, created business group-specific training materials and best practices documentation, trained both internal users and external stakeholders, migrated legacy documents, and served as the primary support person for users in my business group.
 
-Led the initiative to onboard our business unit to an electronic manuals platform. Worked directly with IT business analysts to develop the system requirements, performed user acceptance training, trained internal users, wrote the standard operating procedure, and educated external stakeholders. 
+Led the initiative to onboard our business unit to an electronic manuals platform. Worked directly with IT business analysts to develop the system requirements, performed user acceptance training, trained internal users, wrote the standard operating procedure, and educated external stakeholders.
 
-Improved our team's best practices, standard operating procedures, and related processes. Managed the corporate Technical Communications style guide team, which contributed to improved consistency and quality of our product user documentation.  
+Improved our team's best practices, standard operating procedures, and related processes. Developed the onboarding training for new employees. Managed the corporate Technical Communications style guide team, which contributed to improved consistency and quality of our product user documentation. 
 
 Partnered with subject matter experts to create and update user guides, instructions for use, and manuals supplied with medical devices. Edited, formatted, and wrote content in Adobe Structured FrameMaker, Oxygen XML, and a proprietary CMS, all while following stringent legal and regulatory requirements.
 
